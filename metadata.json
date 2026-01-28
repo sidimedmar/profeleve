@@ -1,0 +1,5 @@
+{
+  "name": "KoboQuiz Sim",
+  "description": "A bilingual (French/Arabic) quiz management system simulating the Professor-Student workflow with AI-assisted question generation.",
+  "requestFramePermissions": []
+}
