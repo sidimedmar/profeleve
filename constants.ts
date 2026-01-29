@@ -33,7 +33,11 @@ export const TRANSLATIONS: Record<Language, Translation> = {
     questionText: "Texte de la question",
     optionText: "Texte de l'option",
     isCorrect: "Est correct ?",
-    required: "Requis"
+    required: "Requis",
+    scoreDistribution: "Distribution des scores",
+    submissionTimeline: "Chronologie des soumissions",
+    highestScore: "Meilleur score",
+    lowestScore: "Score le plus bas"
   },
   ar: {
     roleProfessor: "أستاذ",
@@ -67,6 +71,10 @@ export const TRANSLATIONS: Record<Language, Translation> = {
     questionText: "نص السؤال",
     optionText: "نص الخيار",
     isCorrect: "هل هي صحيحة؟",
-    required: "مطلوب"
+    required: "مطلوب",
+    scoreDistribution: "توزيع الدرجات",
+    submissionTimeline: "الجدول الزمني للتقديم",
+    highestScore: "أعلى درجة",
+    lowestScore: "أدنى درجة"
   }
 };

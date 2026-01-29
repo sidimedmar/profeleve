@@ -73,4 +73,8 @@ export interface Translation {
   optionText: string;
   isCorrect: string;
   required: string;
+  scoreDistribution: string;
+  submissionTimeline: string;
+  highestScore: string;
+  lowestScore: string;
 }
